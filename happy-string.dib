@@ -1,0 +1,12 @@
+#!meta
+
+{"kernelInfo":{"defaultKernelName":"csharp","items":[{"aliases":[],"languageName":"csharp","name":"csharp"}]}}
+
+#!csharp
+
+//finding the longest possible happy string using greedy algorithm
+
+int a = 1;
+int b = 1;
+int c = 7;
+string result = "";
